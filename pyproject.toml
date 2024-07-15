@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "zzzerocard"
+version = "0.1.1" 
+description = "Module for creating cards with characters from the game Zenless zone zero!"
+authors = ["DeviantUa <deviantapi@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+repository = "https://github.com/DEViantUA/ZZZeroCard"
+homepage = "https://github.com/DEViantUA/ZZZeroCard"
+keywords = ["api", "generator", "card", "hoyolab", "zenless zone zero", "zzzero", "zzzerocard", "starrailcard"]
+
+[tool.poetry.dependencies]
+python = ">=3.9"
+pydantic = "*"
+aiohttp = "*"
+cachetools = "*"
+Pillow = "*"
+aiofiles = "*"
+more-itertools = "*"
+numpy = "*"
+beautifulsoup4 = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
