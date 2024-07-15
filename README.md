@@ -1,4 +1,4 @@
-<img src = "https://github.com/DEViantUA/ZZZeroCard/blob/main/ReadMe/ZZZBANNER.png" >
+<img src = "https://raw.githubusercontent.com/DEViantUA/ZZZeroCard/main/ReadMe/ZZZBANNER.png" >
 
 
 # ZZZeroCard
