@@ -19,6 +19,10 @@ pip install zzzerocard
 ### Launch:
 
 ```py
+import zzzerocard
+import asyncio 
+
+
 cookies = {
     "ltoken_v2": "YOU_LTOKEN",
     "ltmid_v2": "YOU_LTMID",
