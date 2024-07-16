@@ -60,6 +60,7 @@ icon_properties_relict = {
     "31203": "https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/prop-anomaly-proficiency-icon.38adc36b.png",
     "31903":"https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/prop-anomaly-proficiency-icon.38adc36b.png",
     "31503": "https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/prop-impact-icon.6d9c9282.png",
+    "12202": "https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/prop-impact-icon.6d9c9282.png",
     "30502": "https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/prop-energy-regen-icon.2ec55369.png",
 }
 
